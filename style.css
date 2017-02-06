@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box; }
+
+body {
+  background: #f45342;
+  font-family: 'Barrio', cursive; }
+
+#clock {
+  text-align: center;
+  position: relative;
+  top: 320px;
+  color: white;
+  font-size: 80px; }
+
+#hours {
+  color: cyan; }
+
+#minutes {
+  color: yellow; }
+
+#seconds {
+  color: lightgreen; }
