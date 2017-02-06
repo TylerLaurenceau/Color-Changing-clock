@@ -33,7 +33,7 @@ color =  "#"+hours+minutes+seconds;
 document.body.style.background = color;
 
 var clockDiv = document.getElementById('clock');
-clockDiv.innerHTML = "#" + " " + "<span id='hours'>" + hours + "</span>" + "<span id = 'minutes'>" + minutes + "</span>" + "<span id = 'seconds'>" + seconds + "</span>" ;
+clockDiv.innerHTML = "#" + "<span id='hours'>" + hours + "</span>" + "<span id = 'minutes'>" + minutes + "</span>" + "<span id = 'seconds'>" + seconds + "</span>" ;
 
 }
 displayTime();
