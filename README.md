@@ -2,6 +2,7 @@
 
 ![color-clock](https://lh6.ggpht.com/wDs-9M4uVAoJ6gvZuM9AG3FRZwOov3W6Ch-thUfvZ28l8P0SPxI3Q5PI2HHryK25FNdU=w300)
 
+[Link to the live site](http://TylerLaurenceau.github.io/Color-Changing-clock/)
 
 What I learned making this color clock:
 
